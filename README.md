@@ -6,7 +6,7 @@
   - Enhancing document retrieval and chat responses with advanced RAG.
   
 - 📘 **Master's focusing in:** Reinforcement Learning, Diffusion Models, and LLMs.
-- 🤝 **Looking to collaborate on:** Cool projects in AI, and high-performance computing.
+- 🤝 **Looking to collaborate on:** Cool projects in AI, and High-Performance Computing.
 - 📫 **Reach me at:** [ramana_hm@tamu.edu](mailto:ramana_hm@tamu.edu) or [hm1ramana@gmail.com](mailto:hm1ramana@gmail.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I can also build iOS apps!
