@@ -2,8 +2,8 @@
 
 - 👨‍💻 **Currently working on:**
   - Developing a satellite-based crop monitoring system.
-  - Improving AI models for image captioning.
-  - Enhancing document retrieval with advanced AI techniques.
+  - Improving AI models for prompt-driven image captioning.
+  - Enhancing document retrieval and chat responses with advanced RAG.
   
 - 📘 **Master's focusing in:** Reinforcement Learning, Diffusion Models, and LLMs.
 - 🤝 **Looking to collaborate on:** Cool projects in AI, and high-performance computing.
