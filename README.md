@@ -9,7 +9,7 @@
 - 🤝 **Looking to collaborate on:** Cool projects in AI, and high-performance computing.
 - 📫 **Reach me at:** [ramana_hm@tamu.edu](mailto:ramana_hm@tamu.edu) or [hm1ramana@gmail.com](mailto:hm1ramana@gmail.com)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I’ve helped auto-authenticate luxury watches!
+- ⚡ **Fun fact:** I can also build iOS apps!
 
 <!---
 ramanahm1/ramanahm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
