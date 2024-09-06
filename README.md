@@ -1,6 +1,10 @@
 # Hi, I’m Ramana Heggadal Math 👋
 
-- 👨‍💻 **Currently working on:** A satellite-based crop monitoring system and improving AI models for image captioning and document retrieval!
+- 👨‍💻 **Currently working on:**
+  - Developing a satellite-based crop monitoring system.
+  - Improving AI models for image captioning.
+  - Enhancing document retrieval with advanced AI techniques.
+  
 - 📘 **Master's focusing in:** Reinforcement Learning, Diffusion Models, and LLMs.
 - 🤝 **Looking to collaborate on:** Cool projects in AI, and high-performance computing.
 - 📫 **Reach me at:** [ramana_hm@tamu.edu](mailto:ramana_hm@tamu.edu) or [hm1ramana@gmail.com](mailto:hm1ramana@gmail.com)
