@@ -5,7 +5,7 @@
   - Improved AI models for prompt-driven image captioning (Researched multilingual translation without English as a bridge! Latent spaces were videos.)
   - Enhanced document retrieval and chat responses with advanced RAG (MongoDB + Reddit + TAMU-docs + LLM).
   
-- 📘 **Master's focusing in:** Reinforcement Learning, Diffusion Models, and LLMs.
+- 📘 **MS in Data Science, with focus in Computer Science and Engineering**
 - 🤝 **Looking to collaborate on:** Cool projects in AI, and High-Performance Computing.
 - 📫 **Reach me at:** [ramana_hm@tamu.edu](mailto:ramana_hm@tamu.edu) or [hm1ramana@gmail.com](mailto:hm1ramana@gmail.com)
 - 😄 **Pronouns:** He/Him
