@@ -1,7 +1,7 @@
 # Hi, I’m Ramana Heggadal Math 👋
 
 - 👨‍💻 **Currently working on:**
-  - Developed a satellite-based crop monitoring system (Yes, along with a BADASS algorithm!).
+  - Developed a satellite-based crop monitoring system.
   - Improved AI models for prompt-driven image captioning (Researched multilingual translation without English as a bridge! Latent spaces were videos.)
   - Enhanced document retrieval and chat responses with advanced RAG (MongoDB + Reddit + TAMU-docs + LLM).
   
