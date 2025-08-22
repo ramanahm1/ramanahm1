@@ -2,6 +2,7 @@
 
 Intersts (Mix of Software Development & Research):
 - Deep Learning, LLMs, Software Engineering
+- Total Work Experience: ~5 Years
 
 Portfolio Projects:
 - [Satellite-based Crop Management System](https://github.com/saranshagarwal202/Satellite_based_crop_monitoring_system)
