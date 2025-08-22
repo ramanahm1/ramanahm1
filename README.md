@@ -1,6 +1,6 @@
 # Hi, I’m Ramana
 
-Intersts:
+Intersts (Mix of Software Development & Research):
 - Deep Learning, LLMs, Software Engineering
 
 Portfolio Projects:
