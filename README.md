@@ -1,6 +1,6 @@
 # Hi, I’m Ramana
 
-Intersts (Mix of Software Development & Research):
+I love a good mix of Software Development & Research:
 - Deep Learning, LLMs, Software Engineering
 - Total Work Experience: ~5 Years
 
